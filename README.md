@@ -1,5 +1,8 @@
 # 🐱 Hi there
 <h3 align="center">I'm thatfrozenfrog</h3>
+<p align="center">
+  <img src="https://moe-counter.glitch.me/get/@fnchips?theme=asoul">
+</p>
 「蛙を瞬時にまんべんなく凍らせれば、蛙は死ぬことなく溶ければ元通りになるのよ。これは遊びじゃなくて氷の修行なの。決して氷漬けの蛙が可愛いだとか、鳴き声が五月蠅いからだとか、お手玉にして遊ぶと砕けそうでハラハラするだとか、そんなんじゃないの」
 
 > If immediately I freeze the frogs all the way, they won't die, and when they thaw, it's like nothing happened. I'm not playing, but training my ice powers. I'm definitely not doing it because frozen frogs are cute, or because their croaking gets on my nerves, or because I get excited when I juggle them since they might break if I drop one.
