@@ -29,7 +29,7 @@
 <img src="https://imgs.xkcd.com/comics/real_programmers.png" width="740px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thatfrozenfrog&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 妖精は元々悪戯好きな物であり、それにより手痛いお仕置きを受けることも多々ある。今回被害に遭われた妖精もその物の一例であると考えられる。ただ、妖精とはいえ悪戯は、自分より力のある物に対して行う物である。いくらいつも虐められてばかりいたとしてもか弱い蛙相手に腹いせをしているようでは、些か情けないと思うがいかがだろうか。
 <br>
