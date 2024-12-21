@@ -25,7 +25,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 IDE I use
+### 💀
 <img src="https://imgs.xkcd.com/comics/real_programmers.png" width="740px"/>
 
 ---
