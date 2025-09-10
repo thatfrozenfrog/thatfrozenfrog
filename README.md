@@ -18,7 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thatfrozenfrog&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatfrozenfrog&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatfrozenfrog&theme=discord_old_blurple)
 
 ### ✍️ Random Dev Quote
