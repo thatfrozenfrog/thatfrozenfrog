@@ -8,7 +8,6 @@
 > If immediately I freeze the frogs all the way, they won't die, and when they thaw, it's like nothing happened. I'm not playing, but training my ice powers. I'm definitely not doing it because frozen frogs are cute, or because their croaking gets on my nerves, or because I get excited when I juggle them since they might break if I drop one.
 
 ## 🌐 Socials:
-
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2Uni5KxBISOFOspaPS4pbg?style=for-the-badge&logo=youtube&labelColor=gray)
 
 # 💻 Tech Stack:
@@ -20,13 +19,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatfrozenfrog&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=thatfrozenfrog)](https://github.com/thatfrozenfrog/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatfrozenfrog&theme=discord_old_blurple)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 💀
-<img src="https://imgs.xkcd.com/comics/real_programmers.png" width="740px"/>
 
 ---
 
