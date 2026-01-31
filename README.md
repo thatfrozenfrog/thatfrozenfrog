@@ -1,7 +1,7 @@
 # 🐱 Hi there
 <h3 align="center">I'm thatfrozenfrog</h3>
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@thatfrozenfrog?theme=asoul">
+  <img src="https://count.getloli.com/get/@thatfrozenfrog?theme=asoul">
 </p>
 「蛙を瞬時にまんべんなく凍らせれば、蛙は死ぬことなく溶ければ元通りになるのよ。これは遊びじゃなくて氷の修行なの。決して氷漬けの蛙が可愛いだとか、鳴き声が五月蠅いからだとか、お手玉にして遊ぶと砕けそうでハラハラするだとか、そんなんじゃないの」
 
