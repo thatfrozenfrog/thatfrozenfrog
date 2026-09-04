@@ -1,32 +1,195 @@
-# 🐱 Hi there
-<h3 align="center">I'm thatfrozenfrog</h3>
-<p align="center">
-  <img src="https://count.getloli.com/get/@thatfrozenfrog?theme=asoul">
+<body class="is_thread board_g">
+
+<div id="boardNavDesktop" class="desktop">
+<span class="boardList">[ <a href="#" title="Soyjaks">soy</a> | <a href="#" title="Question & Answer">qa</a> | <a href="#" title="Raid: SHADOW LEGENDS">raid</a> | <a href="#" title="Requests & Soy Art">r</a> ] [ <a href="#" title="International">int</a> | <a href="#" title="Politics & countrywars">pol</a> ] </span>
+<span id="navtopright" align="right">[<a href="#">Settings</a>] [<a href="#">Search</a>] [<a href="#">Mobile</a>] [<a href="#">Home</a>]</span>
+</div>
+
+<div class="boardBanner" align="center">
+<div id="bannerCnt" class="title desktop"></div>
+<h1 class="boardTitle">/g/ - Technology</h1>
+</div>
+<hr class="abovePostForm">
+
+<div id="togglePostFormLink" class="desktop" align="center">[<a href="#">Post a Reply</a>]</div>
+
+<!-- NEWS SEC O ALGO -->
+
+<table id="blotter" class="desktop" align="center" cellpadding="8">
+<tbody id="blotter-msgs">
+<tr>
+    <td class="blotter-date">08/21/20</td>
+    <td class="blotter-content">New boards added: <a href="#">/vrpg/</a>, <a href="#">/vmg/</a>, <a href="#">/vst/</a> and <a href="#">/vm/</a></td>
+</tr>
+<tr>
+    <td class="blotter-date">05/04/17</td>
+    <td class="blotter-content">New trial board added: <a href="#">/bant/ - International/Random</a></td>
+</tr>
+<tr>
+    <td class="blotter-date">10/04/16</td>
+    <td class="blotter-content">New board for 4chan Pass users: <a href="#">/vip/ - Very Important Posts</a></td>
+</tr>
+</tbody>
+
+
+<tfoot><tr><td colspan="2">[<a href="#">Hide</a>]<span> [<a href="#">Show All</a>]</span></td></tr></tfoot>
+</table>
+
+
+
+<!-- Banner -->
+
+<hr class="aboveMidAd">
+<div class="middlead center" align="center">
+<div>
+<a href="https://github.com/thatfrozenfrog">
+<img alt="contest banner" src="https://s.4cdn.org/image/contest_banners/c922329937f811c2a4066bf5c8b34c16a2702a59.png">
+</a>
+</div>
+</div>
+<hr>
+<div class="adl" align="center">[<a href="https://intculture.party/secret/jschantest/" target="_blank">Free AI gigachad generator</a>]</div>
+<hr class="desktop" id="op">
+<div class="navLinks desktop">[<a href="#" accesskey="a">Return</a>] [<a href="#">Catalog</a>] [<a href="#bottom">Bottom</a>]</div>
+<hr>
+
+<div class="board">
+<div class="thread" id="t109723556">
+
+<!-- OP Post -->
+<table width="100%" cellpadding="14">
+<tr>
+<td width="360" valign="top">
+File: <a href="scripts/avatar.png" target="_blank">yotsuba.png</a> 📥 (48 KB, 388x388)<br><br>
+<a href="scripts/avatar.png" target="_blank"><img src="./ascii.svg" width="340" alt="yotsuba.png"></a>
+</td>
+<td valign="top">
+⊟ ☐ <span class="nameBlock"><span class="name"><b>Anonymous</b></span></span> 
+<span class="dateTime" data-utc="1788489280">09/04/26(Fri)09:44:25</span>&nbsp;
+<span class="postNum desktop"><a href="#p109723556" rel="nofollow">No.</a><a href="#">109723556</a></span> ˅
+&nbsp;<span><a href="#p109723601">&gt;&gt;109723601</a></span> <span><a href="#p109723602">&gt;&gt;109723602</a></span> <span><a href="#p109723603">&gt;&gt;109723603</a></span>
+<br><br>
+<img src="itt.svg" alt="itt"><br/>
+
+
+&ldquo;蛙を瞬時にまんべんなく凍らせれば、蛙は死ぬことなく溶ければ元通りになるのよ。これは遊びじゃなくて氷の修行なの。決して氷漬けの蛙が可愛いだとか、鳴き声が五月蠅いからだとか、お手玉にして遊ぶと砕けそうでハラハラするだとか、そんなんじゃないの&rdquo;<br/><br/>
+<i>If immediately I freeze the frogs all the way, they won&#039;t die, and when they thaw, it&#039;s like nothing happened. I&#039;m not playing, but training my ice powers...</i><br/><br/>
+<p>
+<b>Current GET:</b><br/>
+<img src="https://count.getloli.com/get/@thatfrozenfrog?theme=asoul" alt="Views"/>
 </p>
-「蛙を瞬時にまんべんなく凍らせれば、蛙は死ぬことなく溶ければ元通りになるのよ。これは遊びじゃなくて氷の修行なの。決して氷漬けの蛙が可愛いだとか、鳴き声が五月蠅いからだとか、お手玉にして遊ぶと砕けそうでハラハラするだとか、そんなんじゃないの」
+</td>
+</tr>   
+</table>
 
-> If immediately I freeze the frogs all the way, they won't die, and when they thaw, it's like nothing happened. I'm not playing, but training my ice powers. I'm definitely not doing it because frozen frogs are cute, or because their croaking gets on my nerves, or because I get excited when I juggle them since they might break if I drop one.
+<!-- Reply 1: Contribution stats (indented with dl/dd and natural wrapping) -->
+<dl>
+<dd>
 
-## 🌐 Socials:
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2Uni5KxBISOFOspaPS4pbg?style=for-the-badge&logo=youtube&labelColor=gray)
+<table cellpadding="14">
+<tr>
+<td>
+<div class="postInfo desktop" id="pi109723601">
+⊟ ☐ <span class="nameBlock"><span class="name"><b>Anonymous</b></span></span> 
+<span class="dateTime">09/04/26(Fri)09:44:40</span>&nbsp;
+<span class="postNum desktop">No.109723601</span> ˅
+</div>
+<blockquote class="postMessage" id="m109723601">
+<a href="#p109723556"><b>&gt;&gt;109723556 (OP)</b></a><br/>
+RQNVVVVVVVVVVVLD<br/><br/>
+<div align="center">
+<img src="./stats.svg" width="620" alt="Contributions"/><br/>
+<img src="./streak.svg" width="620" alt="Streak"/>
+</div>
+</blockquote>
+</td>
+</tr>
+</table>
 
-# 💻 Tech Stack:
-![TeleBASIC](https://raw.githubusercontent.com/telehack-foundation/.github/main/profile/svg/telebasic.svg)![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)
+</dd>
+</dl>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thatfrozenfrog&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thatfrozenfrog&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatfrozenfrog&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Reply 2: Languages & Year map -->
+<dl>
+<dd>
 
-## 🏆 GitHub Summary
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatfrozenfrog&theme=discord_old_blurple)
+<table cellpadding="14">
+<tr>
+<td>
+<div class="postInfo desktop" id="pi109723602">
+⊟ ☐ <span class="nameBlock"><span class="name"><b>Anonymous</b></span></span> 
+<span class="dateTime">09/04/26(Fri)09:45:02</span>&nbsp;
+<span class="postNum desktop">No.109723602</span> ˅
+</div>
+<blockquote class="postMessage" id="m109723602">
+<a href="#p109723556"><b>&gt;&gt;109723556 (OP)</b></a><br/>
+Media Pending Anporvool and it never ends<br/>
+&gtinb4 banned for posting nu-frog and AI giga<br/><br/>
+<div align="center">
+<img src="./langs.svg" width="620" alt="Languages"/><br/>
+<img src="./year.svg" width="620" alt="Year Activity"/>
+</div>
+</blockquote>
+</td>
+</tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+</dd>
+</dl>
 
----
+<!-- Reply 3: Projects & Socials -->
+<dl>
+<dd>
+
+<table cellpadding="14">
+<tr>
+<td>
+<div class="postInfo desktop" id="pi109723603">
+⊟ ☐ <span class="nameBlock"><span class="name"><b>Anonymous</b></span></span> 
+<span class="dateTime">09/04/26(Fri)09:45:30</span>&nbsp;
+<span class="postNum desktop">No.109723603</span> ˅
+</div>
+<blockquote class="postMessage" id="m109723603">
+<a href="#p109723556"><b>&gt;&gt;109723556 (OP)</b></a><br/>
+&gt;SNCA list:<br/>
+<ul>
+<li><b><a href="https://github.com/thatfrozenfrog/KILLDOZER">KILLDOZER</a></b> &mdash; TelehACK client</li>
+KWABAG by el way
+<li><b><a href="https://github.com/thatfrozenfrog/nimtauri">nimtauri</a></b> &mdash; Nim language bindings for building desktop apps with Tauri.</li>
+<li><b><a href="https://github.com/thatfrozenfrog/580VN-X-Decompilation">580VN-X-Decompilation</a></b> &mdash; Calculator firmware reverse engineering &amp; Assembly.</li>
+<li><b><a href="https://github.com/thatfrozenfrog/2048-userscript-module">2048-userscript-module</a></b> &mdash; C++ userscript module for 2048.</li>
+<li><b><a href="https://github.com/thatfrozenfrog/TeleSOVLS">TeleSOVLS</a></b> &mdash; Legacy version of Killdozer.</li>
+</ul>
+<b>Socials:</b><br/>
+<a href="https://youtube.com/channel/UC2Uni5KxBISOFOspaPS4pbg"><img src="https://img.shields.io/youtube/channel/subscribers/UC2Uni5KxBISOFOspaPS4pbg?style=for-the-badge&logo=youtube&labelColor=gray" alt="YouTube Channel Subscribers"></a><br/><br/>
+<details>
+<summary><b>[NAS OF THE DAY]</b></summary>
+<br/>
+<img src="NAS.png" alt="NAS of the Day">
+<!-- <img src="https://kosuzu.neocities.org/Contents/063BAiJRCirno.jpg" width="300" alt="Cirno"><br/> -->
+<!-- <small>妖精は元々悪戯好きな物であり、それにより手痛いお仕置きを受けることも多々ある。今回被害に遭われた妖精もその物の一例であると考えられる。</small> -->
+</details>
+<br/><br/>
+<img src="./banned.svg" alt="(USER WAS BANNED FOR THIS POST)">
+</blockquote>
+</td>
+</tr>
+</table>
+
+</dd>
+</dl>
+
+</div>
+</div>
+
+<hr class="desktop">
+<div class="navLinks navLinksBot desktop">[<a href="#" accesskey="a">Return</a>] [<a href="#">Catalog</a>] [<a href="#top">Top</a>]</div>
+<hr class="desktop">
 
 
-妖精は元々悪戯好きな物であり、それにより手痛いお仕置きを受けることも多々ある。今回被害に遭われた妖精もその物の一例であると考えられる。ただ、妖精とはいえ悪戯は、自分より力のある物に対して行う物である。いくらいつも虐められてばかりいたとしてもか弱い蛙相手に腹いせをしているようでは、些か情けないと思うがいかがだろうか。
-<br>
-<img src="https://kosuzu.neocities.org/Contents/063BAiJRCirno.jpg"/>
+<div id="absbot" class="absBotText" align="center">
+<small class="absBotDisclaimer">All trademarks and copyrights on this page are owned by their respective parties. Images uploaded are the responsibility of the Poster. Comments are owned by the Poster.</small><br/>
+<small id="footer-links"><a href="https://4chan.org/faq" target="_blank">About</a> &bull; <a href="https://4chan.org/feedback" target="_blank">Feedback</a> &bull; <a href="https://4chan.org/legal" target="_blank">Legal</a> &bull; <a href="https://4chan.org/contact" target="_blank">Contact</a></small>
+</div>
+<div id="bottom"></div>
+</body>
