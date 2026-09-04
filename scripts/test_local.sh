@@ -10,7 +10,7 @@ echo "========================================================"
 echo ""
 
 # 1. Avatar ASCII Generation
-IMAGE_INPUT="${1:-$DIR/avatar.png}"
+IMAGE_INPUT="${1:-$DIR/art.txt}"
 echo "--> [1/4] Generating ascii.svg from $IMAGE_INPUT ..."
 uv run "$DIR/make_portrait.py" "$IMAGE_INPUT" "$REPO_DIR/ascii.svg"
 

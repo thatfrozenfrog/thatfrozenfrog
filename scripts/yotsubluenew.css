@@ -104,11 +104,16 @@ hr#op, #ctrl-top { clear: both; }
   pointer-events: none;
 }
 
+@font-face {
+  font-family: 'Saitamaar';
+  src: url('fonts/Saitamaar.woff2') format('woff2');
+}
+
 .sjis, #quickReply .sjis {
   font-size: 16px;
   line-height: 17px;
   white-space: pre;
-  font-family: 'IPAMonaPGothic', 'Mona', 'MS PGothic', monospace;
+  font-family: 'Saitamaar', 'IPAMonaPGothic', 'Mona', 'MS PGothic', monospace;
   overflow: auto;
   display: block;
   clear: left;
